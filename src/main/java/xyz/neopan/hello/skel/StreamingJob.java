@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package xyz.neopan.hello;
+package xyz.neopan.hello.skel;
 
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 

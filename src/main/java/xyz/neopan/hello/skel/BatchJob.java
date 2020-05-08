@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package xyz.neopan.hello;
+package xyz.neopan.hello.skel;
 
 import org.apache.flink.api.java.ExecutionEnvironment;
 
